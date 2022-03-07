@@ -1,2 +1,2 @@
 # dotwc
-Polkadot Wallet Connect smart contract.
+Polkadot Wallet Connect.
